@@ -23,7 +23,9 @@ body {
 }
 
 h2 {
-    color: black
+    color: black;
+    text-shadow: brown;
+    text-indent: 5%;
 }
 
 h3 {
@@ -58,9 +60,12 @@ ul {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin: auto;
+    margin:auto;
+    padding: 2%;
     border: solid brown;
     font-size:small;
+    font-style:oblique;
+    text-indent:4%;
 }
 
 .standout {
@@ -70,6 +75,11 @@ ul {
 }
 
 .row {
-    flex-direction:column-reverse;
+    flex-direction: column;
     justify-content: center;
+    margin: auto;
+    border: solid lightsalmon;
+    display: flex;
+    width:400px;
+    padding: 4%;
 }
