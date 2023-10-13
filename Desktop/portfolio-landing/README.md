@@ -1,8 +1,8 @@
 # _Jack Wiliams Portfolio_
 
-#### By _**{Jack Williams}**_
+#### By _**Jack Williams**_
 
-#### _{A portfolio on my first week at Epicodus as well as some personal infoormation about me.}_
+#### _A portfolio on my first week at Epicodus as well as some personal infoormation about me._
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This site is a portfolio from my first week at Epicodus. It includes personal photos of myself, my girlfriend, and our dogs that are important to me. It also includes links to the repositories of projects I worked on in week one of class. Lastly, it includes a brief history of my life before enrolling at Epicodus and the path that led me here as well as a list of my hobbies and interests.}_
+_This site is a portfolio from my first week at Epicodus. It includes personal photos of myself, my girlfriend, and our dogs that are important to me. It also includes links to the repositories of projects I worked on in week one of class. Lastly, it includes a brief history of my life before enrolling at Epicodus and the path that led me here as well as a list of my hobbies and interests._
 
 ## Setup/Installation Requirements
 
@@ -29,6 +29,6 @@ _{This site is a portfolio from my first week at Epicodus. It includes personal 
 
 ## License
 
-_{Feel free to reach me at jackwillpdx@gmail.com.}_
+_Feel free to reach me at jackwillpdx@gmail.com._
 
 Copyright (c) _2023_ _Jack Williams_
