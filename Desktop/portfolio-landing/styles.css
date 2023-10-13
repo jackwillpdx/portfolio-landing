@@ -12,6 +12,10 @@ img {
 h1 {
     text-align: center;
     color: darkred;
+    border: solid darkolivegreen;
+    border-style:dotted;
+    border-width: 10px;
+
 }
 
 body {
@@ -24,7 +28,7 @@ h2 {
 
 h3 {
     color: white;
-
+    text-align: center;
 }
 
 li {
@@ -41,12 +45,31 @@ ol {
 
 ul {
     color: antiquewhite;
+    text-align: center;
 }
 
 .highlight {
     font-style: italic;
 }
 
-.strong {
+.column {
     font-style: bold;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    border: solid brown;
+    font-size:small;
+}
+
+.standout {
+    border: solid;
+    border-style: dotted;
+    text-align: left;
+}
+
+.row {
+    flex-direction:column-reverse;
+    justify-content: center;
 }
