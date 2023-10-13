@@ -19,13 +19,13 @@ _This site is a portfolio from my first week at Epicodus. It includes personal p
 
 * _Clone this repository to your desktop._
 * _Navigate to the top level of the directory._
-* _Open portfolio-landing/index.html_
+* _Open portfolio-landing/index.html_ in your browser.
 
 ## Known Bugs
 
-* _Modifications to css might not be updated due to error on terminal commit to git_
-* _Modification to index.html might not be updated due to error on terminal commit to git_
-* _Fully updated version available on http://127.0.0.1:5500/index.html_
+* _Modifications to css might not be updated due to error on terminal commit to git._
+* _Modification to index.html might not be updated due to error on terminal commit to git._
+* _Fully updated version available on http://127.0.0.1:5500/index.html_.
 
 ## License
 
