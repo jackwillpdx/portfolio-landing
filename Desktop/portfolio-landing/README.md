@@ -23,7 +23,9 @@ _{This site is a portfolio from my first week at Epicodus. It includes personal 
 
 ## Known Bugs
 
-* _N/A_
+* _Modifications to css might not be updated due to error on terminal commit to git_
+* _Modification to index.html might not be updated due to error on terminal commit to git_
+* _Fully updated version available on http://127.0.0.1:5500/index.html_
 
 ## License
 
