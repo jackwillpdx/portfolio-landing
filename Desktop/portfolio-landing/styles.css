@@ -1,0 +1,52 @@
+img {
+    width:min-content;
+    height: 200px;
+    border: solid black;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+body {
+    background-color: rgb(123, 123, 123);
+}
+
+h2 {
+    color: black
+}
+
+h3 {
+    color: white;
+
+}
+
+li {
+    color:beige;
+}
+
+p {
+    color: bisque;
+}
+
+ol {
+    color: goldenrod;
+}
+
+ul {
+    color: antiquewhite;
+}
+
+.highlight {
+    font-style: italic;
+}
+
+.strong {
+    font-style: bold;
+}
