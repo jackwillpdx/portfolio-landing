@@ -17,7 +17,6 @@ h1 {
     border-width: 6px;
     background-color: black;
     margin: auto;
-
 }
 
 body {
@@ -88,4 +87,12 @@ ul {
     width:400px;
     padding: 4%;
     background-color: darkslategray;
+}
+
+#best {
+    border: solid black;
+    border-radius: 50%;
+    width: 50px;
+    font-size: medium;
+    background-color: aqua;
 }
