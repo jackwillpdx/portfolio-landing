@@ -10,6 +10,8 @@
 * _Terminal_
 * _Google Chrome_
 * _Apple Photos_
+* _HTML_
+* _CSS_
 
 ## Description
 
