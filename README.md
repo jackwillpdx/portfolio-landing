@@ -31,4 +31,6 @@ _This site is a portfolio from my first week at Epicodus. It includes personal p
 
 _Feel free to reach me at jackwillpdx@gmail.com._
 
+MIT
+
 Copyright (c) _2023_ _Jack Williams_
